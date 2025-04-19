@@ -22,11 +22,11 @@
 
 ## 3D printing
 
+![3D Model](/image/3d_model.jpg)
+
 All 3D models are at an early stage of development, still need to be adjusted in size!
 
 The model for printing consists of 3 parts: the main body, the battery pack and the back cover.
-
-`TODO: Add 3D models to the repository`
 
 ## Soldering of parts
 
