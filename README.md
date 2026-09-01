@@ -39,7 +39,7 @@ the OS as a real battery device, and local LLM inference on the board's NPU.
 
 `TODO: add url links`
 
-## 3D printing
+## 3D Print Model
 
 ![3D Model](image/3d_model.jpg)
 
@@ -48,6 +48,8 @@ All 3D models are at an early stage of development, still need to be adjusted in
 The model for printing consists of 3 parts: the main body, the battery pack and the back cover.
 
 Source model: [`models/drholy Console.skp`](models/drholy%20Console.skp) (SketchUp).
+
+`TODO: Redesign the enclosure in FreeCAD.`
 
 ## Soldering of parts
 
